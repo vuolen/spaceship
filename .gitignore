@@ -1,0 +1,5 @@
+.cpcache
+out
+!out/
+out/*
+!out/main.js
