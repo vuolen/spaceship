@@ -1,0 +1,19 @@
+#root {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.space {
+    width: 100%;
+    height: 100%;
+    background: #222222;
+}
+
+.ship {
+    position: absolute;
+    width: 5%;
+    height: auto;
+    user-select: none;
+    border: 1px solid white;
+}
